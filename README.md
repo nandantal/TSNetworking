@@ -1,4 +1,4 @@
-TSNetworking
+TSNetworking (Beta)
 ========
 
 Wrapper networking library that can be used with Retrofit or Volley
