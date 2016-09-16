@@ -6,7 +6,7 @@ import java.io.UnsupportedEncodingException;
 /**
  * Response class for volley
  *
- * @author Nandan Kaushik Dutta
+ * @author nandan.dutta
  * @version 0.1.1 (Beta)
  * @since 2016-8-21
  */

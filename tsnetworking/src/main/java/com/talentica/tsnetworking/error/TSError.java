@@ -6,7 +6,7 @@ import com.talentica.tsnetworking.util.Util;
  * This class is used to handle error msg returned by volley or
  * retrofit
  *
- * @author Nandan Kaushik Dutta
+ * @author nandan.dutta
  * @version 0.1.1 (Beta)
  * @since 2016-8-21
  */

@@ -5,7 +5,7 @@ import com.android.volley.VolleyError;
 /**
  * Internal Listener class ( Used only for volley)
  *
- * @author Nandan Kaushik Dutta
+ * @author nandan.dutta
  * @version 0.1.1 (Beta)
  * @since 2016-8-21
  */

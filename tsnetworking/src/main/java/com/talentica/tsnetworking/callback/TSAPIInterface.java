@@ -3,7 +3,7 @@ package com.talentica.tsnetworking.callback;
 /**
  * Internal interface class used by retrofit to initiate GET response
  *
- * @author Nandan Kaushik Dutta
+ * @author nandan.dutta
  * @version 0.1.1 (Beta)
  * @since 2016-8-21
  */

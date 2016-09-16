@@ -8,7 +8,7 @@ import java.io.UnsupportedEncodingException;
 /**
  * Main Response class for retrofit or volley
  *
- * @author Nandan Kaushik Dutta
+ * @author nandan.dutta
  * @version 0.1.1 (Beta)
  * @since 2016-8-21
  */
