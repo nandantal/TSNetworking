@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nandand/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/okio-1.8.0_e31a693ad444d3ab0d44fe542438ec4d499c79af.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b67e041443bb8b98db940d326f504ac1e4ed198d.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a12fa531696a2a2cb56dfb9618a424f884a36a1e.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5130c8b205623fc8ecf89c50942f1132c88120d4.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_472ab988e0530f4f75cae6e8c90c60c59c696231.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_b768fb8f20ee7f0a10e26a482727bb60a4d74c64.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_438c98fbc8b1dfee9ae33e1b77a86eb9f0af444d.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_c972fdc05365f9f6aa64cc5330b342e51560cfef.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cd3f363bddabe75dca5403e6574e79de0aa589e6.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/TSNetworking/tsnetworking/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42bec2fe242361f93fe847664da085f3025c1317">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/TSNetworking-tsnetworking-unspecified_c22629fa74527ec9e6fabc75261362d31790d9e7.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_bce56379a923b09f9747641b3db9ec8b78bf7ace.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_d67c05a9030cbcd552247bb908be800372bef175.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_c0ea36dd60049b69b6c08115f6f1783a5344170d.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_a2fcc033477941df02ae9ed2864ab6348ab83914.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_5408907a67deaa5850f496023a24422da522ee55.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_decd1bd59d71368aa5927cc693919605d1d95e48.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_0d0e469cf9e11d7e8d53ae71076fc7c18422187a.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_0cdd0d3d53782235db331a64c3488597646ecab5.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_4ab4718ac9386c293b7096d597a09579864362d6.jar" />
+    </item>
+    <item
+        jar="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/nandand/Desktop/TSNetworking/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_477dffc9015ec18b379119cc291bd4f8c0a49810.jar" />
+    </item>
+
+</items>
