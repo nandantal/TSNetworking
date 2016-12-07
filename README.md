@@ -1,5 +1,7 @@
 TSNetworking (Beta)
 ========
+[![Build Status](https://circleci.com/gh/nandankd/TSNetworking.png?circle-token=077917efa95f4392057f11f10ba5353d98a79ab2)](https://circleci.com/gh/nandankd/TSNetworking)
+
 
 Wrapper networking library that can be used with Retrofit or Volley
 
@@ -12,6 +14,13 @@ How To Use
 --------
 
 1. Build the jar ( Use gradle task "makeJar" to build ) . Latest version is available [here][3]
+2. Or By using gradle
+
+    ```
+    dependencies {
+        compile 'com.talentica:tsnetworking:0.1.1b'
+    }
+    ```
 2. Import it on your project and include either Retrofit or Volley as second dependency.
 3. Implement ```TSCallback``` in your main activity and initialize the library by using , ```TSNetworking networking = new TSNetworking.Builder().setUrl(URL).withCallback(this).build();```
 4. Responses can be handled inside override method ```onResponse``` and ```onFailure```
