@@ -1,10 +1,4 @@
 language: android
-
-sudo: false
-addons:
-  apt:
-    packages:
-      - oracle-java8-installer
       
 android:
   components:
@@ -16,6 +10,9 @@ android:
 
   licenses:
   - 'android-sdk-license.*'
+
+jdk:
+  - oraclejdk8
 
 script:
    - ./gradlew build connectedCheck
