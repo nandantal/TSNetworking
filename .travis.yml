@@ -1,0 +1,14 @@
+language: android
+android:
+  components:
+  - tools
+  - build-tools-23.0.3
+  - android-25
+  - extra
+  - add-on
+
+  licenses:
+  - 'android-sdk-license.*'
+
+script:
+   - ./gradlew build connectedCheck
