@@ -14,6 +14,8 @@ android:
   - android-$ANDROID_API_LEVEL
   - extra
   - add-on
+  - sys-img-armeabi-v7a-addon-google_apis-google-$ANDROID_API_LEVEL
+  - sys-img-armeabi-v7a-addon-google_apis-google-$EMULATOR_API_LEVEL
 
   licenses:
   - 'android-sdk-license.*'
