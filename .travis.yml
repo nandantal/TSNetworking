@@ -1,4 +1,11 @@
 language: android
+
+sudo: false
+addons:
+  apt:
+    packages:
+      - oracle-java8-installer
+      
 android:
   components:
   - tools
